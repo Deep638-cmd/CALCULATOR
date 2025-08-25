@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.row{
+    height: 110px;
+    
+}
+.button{
+    height: 90px;
+    width: 85px;
+    border-radius: 1rem;
+    margin: 10px;
+    font-size: 30px;
+    background-color: pink;
+}
+.reset{
+    height: 180px;
+    text-align: middle;
+}
+.rstbwn{
+    height:80px;
+    width: 90px;
+    font-size: 25px;
+    border-radius: 1rem;
+}
+.ans{
+    height: 40px;
+    font-size: 25;
+  
+}
+.cal{
+    height: 50px;
+}
+.divans{
+    height:50px;
+}
